@@ -1,7 +1,5 @@
 ## The Time Machine - Weaponizing WaybackUrls for Recon, BugBounties , OSINT, Sensitive Endpoints and what not
 
-![TimeMachine]
-
 ### Introduction 
 
 Inspired by anmolksachan
